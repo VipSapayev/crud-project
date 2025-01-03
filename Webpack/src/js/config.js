@@ -1,0 +1,1 @@
+export const API_URL = "https://8672a5f9f78b2bc2.mokky.dev/users";
